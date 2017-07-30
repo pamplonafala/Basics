@@ -1,18 +1,18 @@
-#Git basics
+# Git basics
 
-##Git Download
+## Git Download
 - Fork git
 ```sh
-git clone git@github.com:`user`/`repository`.git  
+git clone git@github.com:<Muser>/<repository>.git  
 ```
 
-##Git Upload
+## Git Upload
 - Create repository
 ```sh
 git init
-git remote add origin git@github.com:`user`/`repository`.git
+git remote add origin git@github.com:<user>/<repository>.git
 git status
-git add `document`
-git commit -m "`commit text`"
+git add <document>
+git commit -m "<commit text>"
 git push -u origin master
 ```
