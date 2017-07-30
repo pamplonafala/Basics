@@ -3,7 +3,7 @@
 ## Git Download
 - Fork git
 ```sh
-git clone git@github.com:<Muser>/<repository>.git  
+git clone git@github.com:<user>/<repository>.git  
 ```
 
 ## Git Upload
