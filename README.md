@@ -1,9 +1,14 @@
-# Git basics
+# Git Basics
 
-## Git Download
+## Git Clone
 - Fork git
 ```sh
-git clone git@github.com:<user>/<repository>.git  
+git clone git@github.com:<user>/<repository>.git
+```
+
+## Git Download
+```sh
+git pull
 ```
 
 ## Git Upload
